@@ -1,4 +1,8 @@
+import { useState } from "react";
+
 const StateFullForm = () => {
+
+    const [email.setEmail] = useState(null);
     const handleSubmit = e => {
 
     }
